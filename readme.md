@@ -230,6 +230,10 @@ io.on('connection', (socket) => {
 
 ```
 
+## Resultado
+
+![enter image description here](https://github.com/MrRojas/Chat-Socket.io/blob/master/public/chat.png?raw=true)
+
 
 
 
