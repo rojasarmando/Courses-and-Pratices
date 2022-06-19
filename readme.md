@@ -26,3 +26,6 @@ _Repositorio con una recopilacion de cursos y practicas que he realizado desde e
 
 
 * [Practica de Java (Pantallas Basicas, Proyecto de Heladeria) ](https://github.com/rojasarmando/Courses-and-Pratices/tree/java-heladeria)
+
+
+* [Curso basico de IA con Python (Platzi) ](https://github.com/rojasarmando/Courses-and-Pratices/tree/python-IA)
