@@ -1,6 +1,6 @@
-#Arrays y Hashes 
+# Arrays y Hashes
 
-## lista 
+## lista
 
 *	include
 *	map
@@ -10,4 +10,4 @@
 * 	drop_while
 *	any
 *	all
-*	& 
+*	&

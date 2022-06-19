@@ -1,6 +1,6 @@
-#Manejo de Excepciones
+# Manejo de Excepciones
 
 
-*	raise 
-*	Rescue	
+*	raise
+*	Rescue
 *	Ensure
