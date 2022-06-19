@@ -17,3 +17,5 @@ _Repositorio con una recopilacion de cursos y practicas que he realizado desde e
 * [Practicas de C/C++](https://github.com/rojasarmando/Courses-and-Pratices/tree/c++)
 
 * [Curso de MySQL (Platzi)](https://github.com/rojasarmando/Courses-and-Pratices/tree/mysql)
+
+* [Practica de Ruby (API)](https://github.com/rojasarmando/Courses-and-Pratices/tree/ruby-example-api)
