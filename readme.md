@@ -23,3 +23,6 @@ _Repositorio con una recopilacion de cursos y practicas que he realizado desde e
 * [Practica de Ruby (API)](https://github.com/rojasarmando/Courses-and-Pratices/tree/ruby-example-api)
 
 * [Practica de Matlab ](https://github.com/rojasarmando/Courses-and-Pratices/tree/matlab)
+
+
+* [Practica de Java (Pantallas Basicas, Proyecto de Heladeria) ](https://github.com/rojasarmando/Courses-and-Pratices/tree/java-heladeria)
