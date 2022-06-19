@@ -1,17 +1,23 @@
-# Courses and Pratices
+# Practica-MySQL
 
-[![Linkedin Badge](https://img.shields.io/badge/-rojasarmando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rojasarmando/)](https://www.linkedin.com/in/rojasarmando/)
-[![Gmail Badge](https://img.shields.io/badge/-armando.develop-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:armando.develop@gmail.com)](mailto:armando.develop@gmail.com)
-[![Github Badge](https://img.shields.io/badge/-rojasarmando-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rojasarmando/rojasarmando)](https://github.com/rojasarmando/rojasarmando)
-[![Github Badge](https://img.shields.io/badge/-dev_armando-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/dev-armando/rojasarmando)](https://github.com/dev-armando/dev-armando)
+## Funciones
 
+-- Now() = Hora y Fecha en el equipo
 
-_Repositorio con una recopilacion de cursos y practicas que he realizado desde el 2018, cada curso o practica se encuentra por rama._
+-- YEAR() = Obtener Año -> YEAR(NOW())
 
+-- COUNT() = Cuenta la cantidad de Registros
 
+-- AVG() = Promedio
 
-### Lista de cursos y practicas por ramas 📋
+-- MAX() = El Maximo de un registro
 
-* [Practicas de Nodejs con WebSockets (Chat en Tiempo Real)](https://github.com/rojasarmando/Courses-and-Pratices/tree/nodejs-websocket)
+-- MIN() = El minimo de un registro
 
-* [Practicas de C/C++](https://github.com/rojasarmando/Courses-and-Pratices/tree/c++)
+-- STDDEV() = Desviacion Estandar
+
+-- CONCAT() = Agrupa cadenas
+
+-- TO_DAYS() = Numero de dias pasados desde el dia 0 hasta la fecha que se pase por parametro
+
+-- IF(condicion, true , false) = condicional MySQL
