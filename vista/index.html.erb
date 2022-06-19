@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>  Practica de Ruby </title>
+
+	<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+
+</head>
+<body>
+
+<div class="container">
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <a class="navbar-brand" href="#">
+  	Practica de Ruby - Armando Rojas 2018
+  </a>
+ </nav>
+</div>
+<br>
+
+<div class="container ">
+	<div class="row">
+
+	<% @post.each do |p|   %>
+	<div class="col-lg-6 col-md-6 col-sm-6">
+		
+	
+	<div class="card">
+  <h5 class="card-header"> 
+  	Post 
+  	<%= @contador = @contador+1 %># 
+
+  </h5>
+  <div class="card-body">
+    <h5 class="card-title"><%= p['title'] %></h5>
+    <p class="card-text">		<%= p['body'] %>  </p>
+    <a href="https://mrrojas.github.io/Portafolio/" class="btn btn-info">Ir a Mi Pagina</a>
+    <a href="https://github.com/MrRojas/" class="btn btn-danger">Ir a Mi Repositorio</a>
+   </div>
+  </div>
+
+	</div>
+		
+		
+
+	<% end %>
+	</div>
+</div>
+
+
+
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.bundle.min.js" integrity="sha384-u/bQvRA/1bobcXlcEYpsEdFVK/vJs3+T+nXLsBYJthmdBuavHvAW6UsmqO2Gd/F9" crossorigin="anonymous"></script>
+</body>
+</html>
