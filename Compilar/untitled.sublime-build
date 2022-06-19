@@ -1,0 +1,4 @@
+{
+	 "cmd": ["~/Documentos/runC.sh ${file_path}/${file_name} ${file_path}/${file_base_name}"],
+    "shell": true
+}
