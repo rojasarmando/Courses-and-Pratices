@@ -1,1 +1,0 @@
-# Semtencia para mostrar las tablas 
