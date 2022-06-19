@@ -13,3 +13,5 @@ _Repositorio con una recopilacion de cursos y practicas que he realizado desde e
 ### Lista de cursos y practicas por ramas 📋
 
 * [Practicas de Nodejs con WebSockets (Chat en Tiempo Real)](https://github.com/rojasarmando/Courses-and-Pratices/tree/nodejs-websocket)
+
+* [Practicas de C/C++](https://github.com/rojasarmando/Courses-and-Pratices/tree/c++)
