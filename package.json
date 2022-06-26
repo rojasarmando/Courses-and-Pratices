@@ -1,10 +1,13 @@
 {
-  "name": "nodejs-client-server",
+  "name": "client-server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:server": "node src/server/index.js",
+    "start:admin": "node src/admin/index.js",
+    "start:client": "node src/client/index.js"
   },
   "repository": {
     "type": "git",
@@ -18,6 +21,7 @@
   "homepage": "https://github.com/rojasarmando/Courses-and-Pratices#readme",
   "dependencies": {
     "express": "^4.18.1",
-    "socket.io": "^4.5.1"
+    "socket.io": "^4.5.1",
+    "socket.io-client": "^4.5.1"
   }
 }

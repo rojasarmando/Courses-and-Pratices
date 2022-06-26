@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title> Admin Socket Client</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+
+</head>
+<body>
+
+
+    <div id="chat-container">
+            <div class="chat-window-2">
+                    <h2>Sockets.io</h2>
+            </div>
+        <div class="chat-window">
+            <div id="output"></div>
+            <div id="actions"></div>
+        </div>
+        <input type="text" id=username placeholder="Usuario" >
+        <input type="text" id="message" placeholder="Mensaje">
+        <button id=send > Enviar </button>
+    </div>
+
+
+
+    <script src="http://localhost:3100/socket.io/socket.io.js" > </script>
+    <script src="main.js"></script>
+</body>
+</html>
